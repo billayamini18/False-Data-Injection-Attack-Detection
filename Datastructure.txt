@@ -1,0 +1,26 @@
+An Efficient Privacy enhancing Cross silo Federated Learning and Applications for False Data Injection Attack Detection in Smart Grids
+
+IEEE Transactions on Information Forensics and Security with Machine Learning,Volume:18,Issue Date:17.April.2023
+
+privacy-preserving, federated learning, encryption, secret sharing, false data injection attack detection
+
+An_Efficient_Privacy_enhancing
+
+
+an_efficient_privacy_enhancing
+
+
+
+
+
+false_data_injection_attack_detection
+
+
+
+URLs	
+Headline	
+Body
+Prediction
+
+
+
